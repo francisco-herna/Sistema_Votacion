@@ -41,6 +41,7 @@ Ejemplo: 192.168.1.23
 4. **El servidor mostrará en consola quién se conectó y qué opción votó.**
   - Cada usuario puede votar solo una vez.
 
+Imagen en Docker Hub: https://hub.docker.com/r/franciscoherna/cliente
 
 
 
