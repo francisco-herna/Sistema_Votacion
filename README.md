@@ -13,3 +13,5 @@ docker pull franciscoherna/cliente:latest
 docker run -it --rm franciscoherna/cliente:latest
 
 (https://hub.docker.com/r/franciscoherna/cliente)
+
+TENER DOCKER INSTALADO
